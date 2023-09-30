@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HowJi/static/css/main.073c9b0a.css",
+    "main.js": "/HowJi/static/js/main.ee8a8a9c.js",
+    "static/js/787.9d1db995.chunk.js": "/HowJi/static/js/787.9d1db995.chunk.js",
+    "static/media/logo.svg": "/HowJi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HowJi/index.html",
+    "main.073c9b0a.css.map": "/HowJi/static/css/main.073c9b0a.css.map",
+    "main.ee8a8a9c.js.map": "/HowJi/static/js/main.ee8a8a9c.js.map",
+    "787.9d1db995.chunk.js.map": "/HowJi/static/js/787.9d1db995.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee8a8a9c.js"
+  ]
+}
