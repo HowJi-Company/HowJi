@@ -1,0 +1,34 @@
+.header {
+    background-color: #000; /* 設定Header背景為黑色 */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 50px;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+  }
+  
+  .company-name {
+    font-size: 24px;
+    color: #fff; /* 設定公司名稱文字顏色為白色 */
+  }
+  
+  @media (max-width: 768px) {
+    .header {
+      padding: 0 20px;
+    }
+  
+    .company-name {
+      font-size: 20px;
+    }
+  }
+  
