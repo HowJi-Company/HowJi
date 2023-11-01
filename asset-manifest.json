@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/HowJi/static/css/main.073c9b0a.css",
-    "main.js": "/HowJi/static/js/main.ee8a8a9c.js",
+    "main.css": "/HowJi/static/css/main.1424946e.css",
+    "main.js": "/HowJi/static/js/main.a6701148.js",
     "static/js/787.9d1db995.chunk.js": "/HowJi/static/js/787.9d1db995.chunk.js",
-    "static/media/logo.svg": "/HowJi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/b4.png": "/HowJi/static/media/b4.3565b0e98d7e25470aeb.png",
+    "static/media/b2.png": "/HowJi/static/media/b2.1e1ce066b8ae18f76758.png",
+    "static/media/b3.png": "/HowJi/static/media/b3.e9e1b0a274ba63f5b5d5.png",
+    "static/media/b5.png": "/HowJi/static/media/b5.efa37641eb3add43a7c4.png",
     "index.html": "/HowJi/index.html",
-    "main.073c9b0a.css.map": "/HowJi/static/css/main.073c9b0a.css.map",
-    "main.ee8a8a9c.js.map": "/HowJi/static/js/main.ee8a8a9c.js.map",
+    "main.1424946e.css.map": "/HowJi/static/css/main.1424946e.css.map",
+    "main.a6701148.js.map": "/HowJi/static/js/main.a6701148.js.map",
     "787.9d1db995.chunk.js.map": "/HowJi/static/js/787.9d1db995.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ee8a8a9c.js"
+    "static/css/main.1424946e.css",
+    "static/js/main.a6701148.js"
   ]
 }
